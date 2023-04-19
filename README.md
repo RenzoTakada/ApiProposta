@@ -6,4 +6,5 @@
   - Alteração de limites
   - consulta informações de cartão
   - Alterações de limite de cartão
-#### esse projeto Engloba outros servicos
+## Para rodar o RabbitMQ com docker use o comando abaixo
+<sub> docker run --rm -it --name RabbitMQ -p 15672:15672 -p 5672:5672 rabbitmq:3-management </sub>
